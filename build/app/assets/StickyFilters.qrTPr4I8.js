@@ -1,0 +1,1 @@
+import{n as o,F as s,J as i,K as n}from"./index.30dQFFTZ.js";import{H as a}from"./Scene.XHJNaToS.js";const t=40,e=o(s).withConfig({componentId:"sc-i52q6d-0"})(["height:","px;position:sticky;top:","px;z-index:",";background:",";"],40,a,i.header,n("background"));export{t as F,e as S};

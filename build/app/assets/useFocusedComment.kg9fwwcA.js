@@ -1,0 +1,1 @@
+import{u as e,k as t,w as m}from"./index.30dQFFTZ.js";function useFocusedComment(){const{comments:o}=e(),n=t(),s=m(),d=n.state?.commentId||s.get("commentId"),u=d?o.get(d):void 0;return u?.parentCommentId?o.get(u.parentCommentId):u}export{useFocusedComment as u};

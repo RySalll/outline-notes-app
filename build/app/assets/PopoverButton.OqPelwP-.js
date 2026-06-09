@@ -1,0 +1,1 @@
+import{n as a,ah as o,ag as r,ab as t,K as n}from"./index.30dQFFTZ.js";const e=a(o).withConfig({componentId:"sc-1rbv2kd-0"})(["&:",',&:active,&[aria-expanded= "true"]{opacity:1 !important;',";}"],r,(({$borderOnHover:a})=>a&&t(["background:",";box-shadow:rgba(0,0,0,0.07) 0px 1px 2px,"," 0 0 0 1px inset;"],n("buttonNeutralBackground"),n("buttonNeutralBorder"))));export{e as P};

@@ -1,0 +1,1 @@
+import{n}from"./index.30dQFFTZ.js";const o=n.button.withConfig({componentId:"sc-53a8i9-0"})(["margin:0;padding:0;border:0;color:",";line-height:inherit;background:none;text-decoration:none;cursor:pointer;"],(n=>n.theme.link));export{o as B};

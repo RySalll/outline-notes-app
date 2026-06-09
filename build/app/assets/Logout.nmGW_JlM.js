@@ -1,0 +1,1 @@
+import{u as t,e as o,j as a,R as e,l as s}from"./index.30dQFFTZ.js";const Logout=()=>{const{auth:O}=t();return O.logout().then((()=>{o.OIDC_LOGOUT_URI&&setTimeout((()=>{window.location.replace(o.OIDC_LOGOUT_URI)}),200)})),o.OIDC_LOGOUT_URI?null:a(e,{to:s()})};export{Logout as default};
